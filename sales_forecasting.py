@@ -88,3 +88,13 @@ final_forecast.rename(columns={'y': 'Actual Sales'}, inplace=True)
 final_forecast.to_csv("sales_forecast.csv", index=False)
 
 print(final_forecast.head())
+
+
+
+
+
+
+#https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/2-shape-data
+
+
+#https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/6-profile-data
