@@ -98,3 +98,8 @@ print(final_forecast.head())
 
 
 #https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/6-profile-data
+
+
+# https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/3-determine-when-to-develop-import-model
+
+#https://learn.microsoft.com/en-gb/training/modules/data-analytics-microsoft/1-introduction
