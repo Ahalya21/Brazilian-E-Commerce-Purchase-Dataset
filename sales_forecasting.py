@@ -94,7 +94,6 @@ print(final_forecast.head())
 
 
 
-#https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/2-shape-data
 
 
 #https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/6-profile-data
